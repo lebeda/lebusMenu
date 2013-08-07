@@ -1,12 +1,9 @@
 /*
  *	LebusMenu
- *
  * @author Lebus
- * @help MiniAtWork
  * @email Lebus88@gmail.com
  * @developed 2012
- * @version 1.0
- * @return boolean|void
+ * @version 1.1
  */
 
 jQuery.fn.lebusMenu = function() {
