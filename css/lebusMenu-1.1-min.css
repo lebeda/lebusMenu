@@ -1,0 +1,10 @@
+body { margin: 0px; padding: 0px }
+.menuWraper { display: block }
+.menuWraper ul { list-style: none; margin: 0px; padding: 0px; white-space: nowrap }
+.menuWraper ul li ul { display: none; position: absolute }
+.menuWraper li { display: block }
+.menuWraper ul li.first { display: block; float: left; clear: right }
+.menuWraper ul li.first a { display: block }
+.menuWraper ul li.first ul a { display: inline-block !important }
+.menuWraper li > a { display: inline-block; clear: right }
+.clear { clear: both }
