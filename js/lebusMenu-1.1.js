@@ -1,10 +1,10 @@
-/*
- *	LebusMenu
+/**
+ * LebusMenu
  * @author Lebus
  * @email Lebus88@gmail.com
  * @developed 2012
  * @version 1.1
- */
+ **/
 
 jQuery.fn.lebusMenu = function() {
 	var args = arguments[0] || {}, /* It's object of arguments */
